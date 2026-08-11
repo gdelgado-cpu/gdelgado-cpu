@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=220&section=header&text=Germán%20Andrés%20Delgado%20Lozano&fontSize=44&fontColor=f26b38&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA&descSize=18&descColor=f0f0f0&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=220&section=header&text=German%20Delgado&fontSize=52&fontColor=f0f0f0&animation=twinkling&fontAlignY=40&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA&descSize=18&descColor=f26b38&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ## 🧭 Sobre mí
 
 Ingeniero de Sistemas graduado en 2024.
-Construyo soluciones que combinan **desarrollo web**, **inteligencia artificial** y **automatización de procesos**.
+Construyo soluciones que combinan **desarrollo web**,y **automatización de procesos**.
 
 He trabajado en proyectos propios y con clientes en sectores de video generativo, IA aplicada, sitios institucionales y e-commerce.
 
@@ -40,7 +40,7 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 | Recuerdos a un toque | Vue.js · Google Photos Picker API · PHP | Plataforma para compartir álbumes de recuerdos | 🟢 Entregado |
 | RESABSEC | Vue.js · Supabase · Leaflet · PrimeVue | Sitio institucional con panel administrativo | 🟢 Entregado |
 | INSTA.PROMT | PHP · n8n · Wompi · PayPal | Suscripción de prompts para creadores de contenido | 🟢 Live |
-| Arabia Perfumes | WordPress · CSS · Hostinger | Landing comercial de perfumes | 🟢 Live |
+| Arabia Perfumes | WordPress · CSS · Hostinger | Lan🟢 Live |
 
 ---
 
@@ -63,15 +63,18 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gdelgado-cpu&show_icons=true&theme=dracula&hide_border=true&bg_color=26262d&title_color=f26b38&text_color=f0f0f0&icon_color=f26b38&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gdelgado-cpu&show_icons=true&theme=dracula&hide_border=true&bg_color=262
+62d&title_color=f26b38&text_color=f0f0f0&icon_color=f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gdelgado-cpu&theme=dracula&hide_border=true&background=26262d&stroke=f26b38&ring=f26b38&fire=f26b38&currStreakLabel=f26b38&currStreakNum=f0f0f0&sideLabels=f0f0f0&sideNums=f0f0f0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gdelgado-cpu&theme=dracula&hide_border=true&background=26262d&stroke=
+f26b38&ring=f26b38&fire=f26b38&currStreakLabel=f26b38els=f0f0f0&sideNums=f0f0f0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdelgado-cpu&layout=compact&theme=dracula&hide_border=true&bg_color=26262d&title_color=f26b38&text_color=f0f0f0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdelgado-cpu&layout=compact&theme=dracula&hide_border=true&bg
+_color=26262d&title_color=f26b38&text_color=f0f0f0" /
 </p>
 
 ---
@@ -85,12 +88,6 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 </picture>
 
 ---
-
-## 🤝 Open to collaborating on
-
-- Agentes LLM para automatización de negocios.
-- Flujos n8n para integración de APIs.
-- Sitios web con WordPress / Vue.js.
 
 ## 🤝 Open to collaborating on
 
