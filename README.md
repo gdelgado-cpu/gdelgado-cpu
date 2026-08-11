@@ -1,21 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Germán%20Andrés%20Delgado%20Lozano&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA%20·%20Agentes%20LLM&descSize=18&descAlignY=55)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=220&section=header&text=Germán%20Andrés%20Delgado%20Lozano&fontSize=44&fontColor=f26b38&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA&descSize=18&descColor=f0f0f0&descAlignY=55" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automatización+con+IA+y+n8n;Agentes+LLM+y+Ollama;UI%2FUX+y+Video+Generativo;Vue.js+%7C+PHP+%7C+Python+%7C+Supabase;Desarrollo+Full+Stack+desde+Ibagué%2C+Colombia&font=Fira%20Code&center=true&width=700&height=50&color=0E75B6" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automatización+con+IA+y+n8n;Agentes+LLM+y+Ollama;UI%2FUX+y+Video+Generativo;Vue.js+%7C+PHP+%7C+Python+%7C+Supabase;Desarrollo+Full+Stack+desde+Ibagué%2C+Colombia&font=Fira%20Code&center=true&width=700&height=50&color=f26b38&background=26262d" />
 </p>
 
 <p align="center">
   <a href="https://germandelgado.site">
-    <img src="https://img.shields.io/badge/Website-germandelgado.site-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-germandelgado.site-f26b38?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=26262d" />
   </a>
   <a href="https://linkedin.com/in/german-andres-delgado">
-    <img src="https://img.shields.io/badge/LinkedIn-Germán%20Delgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Germán%20Delgado-f26b38?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=26262d" />
   </a>
   <a href="mailto:german.delgadol@outlook.com">
-    <img src="https://img.shields.io/badge/Email-german.delgadol@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-german.delgadol@outlook.com-f26b38?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26262d" />
   </a>
   <a href="https://github.com/gdelgado-cpu">
-    <img src="https://img.shields.io/github/followers/gdelgado-cpu?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/github/followers/gdelgado-cpu?label=Followers&style=for-the-badge&logo=github&color=26262d&labelColor=f26b38&logoColor=white" />
   </a>
 </p>
 
@@ -42,34 +44,60 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-**Lenguajes**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,python,vue,wordpress,html,css,tailwind,supabase,mysql,git,github,npm,vite&theme=dark" />
+</p>
 
-**Web & Frameworks**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Kling_AI-8A2BE2?style=for-the-badge&logo=kling&logoColor=white&labelColor=26262d" />
+</p>
 
-**Bases de datos & Backend**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-**IA, Automatización & Video**
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Kling](https://img.shields.io/badge/Kling_AI-8A2BE2?style=for-the-badge&logo=kling&logoColor=white)
+## 📊 GitHub Stats
 
-**DevOps & Hosting**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gdelgado-cpu&show_icons=true&theme=dracula&hide_border=true&bg_color=26262d&title_color=f26b38&text_color=f0f0f0&icon_color=f26b38&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gdelgado-cpu&theme=dracula&hide_border=true&background=26262d&stroke=f26b38&ring=f26b38&fire=f26b38&currStreakLabel=f26b38&currStreakNum=f0f0f0&sideLabels=f0f0f0&sideNums=f0f0f0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdelgado-cpu&layout=compact&theme=dracula&hide_border=true&bg_color=26262d&title_color=f26b38&text_color=f0f0f0" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🤝 Open to collaborating on
+
+- Agentes LLM para automatización de negocios.
+- Flujos n8n para integración de APIs.
+- Sitios web con WordPress / Vue.js.
+
+## 🤝 Open to collaborating on
+
+- Agentes LLM para automatización de negocios.
+- Flujos n8n para integración de APIs.
+- Sitios web con WordPress / Vue.js.
+- Proyectos de video generativo con IA.
 
 ---
 
@@ -80,5 +108,5 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 - **Sitio:** [germandelgado.site](https://germandelgado.site)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=¿Trabajamos%20juntos?&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=120&section=footer&text=¿Trabajamos%20juntos?&fontSize=30&fontColor=f26b38&animation=twinkling&fontAlignY=70" />
 </p>
