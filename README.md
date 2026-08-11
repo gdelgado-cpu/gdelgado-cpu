@@ -1,16 +1,40 @@
-## Hi there 👋
+# Germán Andrés Delgado Lozano
 
-<!--
-**gdelgado-cpu/gdelgado-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas · Ibagué, Colombia
+Automatización con IA · Agentes LLM · UI/UX · Video generativo · n8n · Ollama · Kling
 
-Here are some ideas to get you started:
+🔗 [germandelgado.site](https://germandelgado.site)
+💼 [linkedin.com/in/german-andres-delgado](https://linkedin.com/in/german-andres-delgado)
+✉ [german.delgadol@outlook.com](mailto:german.delgadol@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+Ingeniero de Sistemas graduado en 2024.
+Me especializo en construir soluciones que combinan desarrollo web, inteligencia artificial y automatización de procesos.
+
+He trabajado en proyectos propios y con clientes en sectores como video generativo, IA aplicada, sitios institucionales y e-commerce.
+
+## Tecnologías principales
+
+- **Lenguajes:** PHP, JavaScript, Python
+- **Web:** WordPress, Vue.js, Tailwind CSS, HTML/CSS
+- **Bases de datos:** Supabase, MySQL
+- **Automatización e IA:** n8n, Ollama, integraciones con LLMs
+- **Video generativo:** Kling, herramientas de edición con IA
+- **Cloud/Hosting:** Hostinger, Netlify
+
+## Proyectos destacados
+
+- [germandelgado.site](https://germandelgado.site) — Portafolio personal
+- Recuerdos a un toque — Plataforma web con Google Photos Picker API
+- RESABSEC — Sitio institucional con panel administrativo
+- INSTA.PROMT — Suscripción de prompts para creadores de contenido
+- Arabia Perfumes — Landing comercial
+
+## Contacto
+
+- Email: [german.delgadol@outlook.com](mailto:german.delgadol@outlook.com)
+- LinkedIn: [linkedin.com/in/german-andres-delgado](https://linkedin.com/in/german-andres-delgado)
+- Sitio: [germandelgado.site](https://germandelgado.site)
