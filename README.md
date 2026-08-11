@@ -63,15 +63,7 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gdelgado-cpu&theme=dracula&hide_border=true&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gdelgado-cpu&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdelgado-cpu&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gdelgado-cpu&theme=dracula&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
