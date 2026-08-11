@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=220&section=header&text=German%20Delgado&fontSize=52&fontColor=f0f0f0&animation=twinkling&fontAlignY=40&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA&descSize=18&descColor=f26b38&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:f26b38,100:26262d&height=220&section=header&text=German%20Delgado&fontSize=52&fontColor=f0f0f0&animation=twinkling&fontAlignY=40&desc=Ingeniero%20de%20Sistemas%20·%20Automatización%20con%20IA&descSize=18&descColor=f26b38&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://germandelgado.site">
-    <img src="https://img.shields.io/badge/Website-germandelgado.site-f26b38?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=26262d" />
+    <img src="https://img.shields.io/badge/Website-germandelgado.site-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=26262d" />
   </a>
   <a href="https://linkedin.com/in/german-andres-delgado">
-    <img src="https://img.shields.io/badge/LinkedIn-Germán%20Delgado-f26b38?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=26262d" />
+    <img src="https://img.shields.io/badge/LinkedIn-Germán%20Delgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=26262d" />
   </a>
   <a href="mailto:german.delgadol@outlook.com">
-    <img src="https://img.shields.io/badge/Email-german.delgadol@outlook.com-f26b38?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26262d" />
+    <img src="https://img.shields.io/badge/Email-german.delgadol@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26262d" />
   </a>
   <a href="https://github.com/gdelgado-cpu">
-    <img src="https://img.shields.io/github/followers/gdelgado-cpu?label=Followers&style=for-the-badge&logo=github&color=26262d&labelColor=f26b38&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/gdelgado-cpu?label=Followers&style=for-the-badge&logo=github&color=181717&labelColor=f0f0f0&logoColor=181717" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 | [germandelgado.site](https://germandelgado.site) | WordPress · PHP · Git auto-deploy | Portafolio personal con tema hijo Glitche | 🟢 Live |
 | Recuerdos a un toque | Vue.js · Google Photos Picker API · PHP | Plataforma para compartir álbumes de recuerdos | 🟢 Entregado |
 | RESABSEC | Vue.js · Supabase · Leaflet · PrimeVue | Sitio institucional con panel administrativo | 🟢 Entregado |
-| INSTA.PROMT | PHP · n8n · Wompi · PayPal | Suscripción de prompts para creadores de contenido | 🟢 Live |
+| INSTA.PROMT | PHP · n8n · Wompi · PayPal | Suscripc de contenido | 🟢 Live |
 | Arabia Perfumes | WordPress · CSS · Hostinger | Landing comercial de perfumes | 🟢 Live |
 
 ---
@@ -53,17 +53,10 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=26262d" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=26262d" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Hostinger-67=hostinger&logoColor=white&labelColor=26262d" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=26262d" />
-  <img src="https://img.shields.io/badge/Kling_AI-8A2BE2?style=for-the-badge&logo=kling&logoColor=white&labelColor=26262d" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gdelgado-cpu&theme=dracula&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Kling_AI-8A2kling&logoColor=white&labelColor=26262d" />
 </p>
 
 ---
@@ -71,8 +64,9 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/gdelgado-cpcontribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
 </picture>
 
@@ -94,5 +88,5 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 - **Sitio:** [germandelgado.site](https://germandelgado.site)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:31313a,100:26262d&height=120&section=footer&text=¿Trabajamos%20juntos?&fontSize=30&fontColor=f26b38&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:f26b38,100:26262d&height=120&section=footer&text=¿Trabajamos%20juntos?&fontSize=30&fontColor=f0f0f0&animation=twinkling&fontAlignY=70" />
 </p>
