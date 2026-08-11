@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automatización+con+IA+y+n8n;Agentes+LLM+y+Ollama;UI%2FUX+y+Video+Generativo;Vue.js+%7C+PHP+%7C+Python+%7C+Supabase;Desarrollo+Full+Stack+desde+Ibagué%2C+Colombia&font=Fira%20Code&center=true&width=700&height=50&color=f26b38&background=26262d" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automatización+con+IA;Agentes+LLM+y+Ollama;UI%2FUX+y+Video+Generativo;Vue.js+%7C+PHP+%7C+Python;Full+Stack+desde+Ibagué%2C+Colombia&font=Fira%20Code&center=true&width=600&height=50&color=f26b38&background=26262d" />
 </p>
 
 <p align="center">
