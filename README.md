@@ -25,22 +25,25 @@
 
 ## 🧭 Sobre mí
 
-Ingeniero de Sistemas graduado en 2024.
-Construyo soluciones que combinan **desarrollo web**, **inteligencia artificial** y **automatización de procesos**.
+Ingeniero de Sistemas graduado en 2024 en Ibagué, Colombia.
 
-He trabajado en proyectos propios y con clientes en sectores de video generativo, IA aplicada, sitios institucionales y e-commerce.
+Me especializo en construir soluciones que combinan desarrollo web, inteligencia artificial y automatización de procesos. Trabajo con clientes y proyectos propios en sectores como video generativo, IA aplicada, sitios institucionales y e-commerce.
+
+- 🌐 Sitio: [germandelgado.site](https://germandelgado.site)
+- 💼 LinkedIn: [linkedin.com/in/german-andres-delgado](https://linkedin.com/in/german-andres-delgado)
+- 📧 Email: [german.delgadol@outlook.com](mailto:german.delgadol@outlook.com)
 
 ---
 
 ## 🌟 Proyectos destacados
 
-| Proyecto | Stack | Descripción | Estado |
-|----------|-------|-------------|--------|
-| [germandelgado.site](https://germandelgado.site) | WordPress · PHP · Git auto-deploy | Portafolio personal con tema hijo Glitche | 🟢 Live |
-| Recuerdos a un toque | Vue.js · Google Photos Picker API · PHP | Plataforma para compartir álbumes de recuerdos | 🟢 Entregado |
-| RESABSEC | Vue.js · Supabase · Leaflet · PrimeVue | Sitio institucional con panel administrativo | 🟢 Entregado |
-| INSTA.PROMT | PHP · n8n · Wompi · PayPal | Suscripc de contenido | 🟢 Live |
-| Arabia Perfumes | WordPress · CSS · Hostinger | Landing comercial de perfumes | 🟢 Live |
+| Proyecto | Stack | Impacto | Estado |
+|----------|-------|---------|--------|
+| [germandelgado.site](https://germandelgado.site) | WordPress · PHP · Git auto-deploy | Portafolio personal con despliegue automático desde GitHub | 🟢 Live |
+| INSTA.PROMT | PHP · n8n · Wompi · PayPal | Suscripción de prompts con pagos COP y selector free/premium | 🟢 Live |
+| RESABSEC | Vue.js · Supabase · Leaflet · PrimeVue | Sitio institucional con panel admin, mapa aliados, bot OpenAI y export Excel | 🟢 Entregado |
+| Recuerdos a un toque | Vue.js · Google Photos Picker API · PHP | Plataforma web para compartir álbumes de recuerdos vía NFC/QR | 🟢 Entregado |
+| Arabia Perfumes | WordPress · CSS · Hostinger | Landing comercial de perfumes árabes | 🟢 Live |
 
 ---
 
@@ -53,10 +56,10 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=26262d" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=26262d" />
-  <img src="https://img.shields.io/badge/Hostinger-67=hostinger&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white&labelColor=26262d" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=26262d" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=26262d" />
-  <img src="https://img.shields.io/badge/Kling_AI-8A2kling&logoColor=white&labelColor=26262d" />
+  <img src="https://img.shields.io/badge/Kling_AI-8A2BE2?style=for-the-badge&logo=kling&logoColor=white&labelColor=26262d" />
 </p>
 
 ---
@@ -64,28 +67,23 @@ He trabajado en proyectos propios y con clientes en sectores de video generativo
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/gdelgado-cpcontribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gdelgado-cpu/gdelgado-cpu/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 🤝 Open to collaborating on
+## 💼 Disponibilidad
 
-- Agentes LLM para automatización de negocios.
-- Flujos n8n para integración de APIs.
-- Sitios web con WordPress / Vue.js.
-- Proyectos de video generativo con IA.
+Actualmente abierto a:
 
----
+- Proyectos freelance de desarrollo web.
+- Automatización de procesos con IA.
+- Integración de LLMs y agentes inteligentes.
+- Asesoría en video generativo y flujos de producción con IA.
 
-## 📫 Contacto
-
-- **Email:** [german.delgadol@outlook.com](mailto:german.delgadol@outlook.com)
-- **LinkedIn:** [linkedin.com/in/german-andres-delgado](https://linkedin.com/in/german-andres-delgado)
-- **Sitio:** [germandelgado.site](https://germandelgado.site)
+📩 Escríbeme: [german.delgadol@outlook.com](mailto:german.delgadol@outlook.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26262d,50:f26b38,100:26262d&height=120&section=footer&text=¿Trabajamos%20juntos?&fontSize=30&fontColor=f0f0f0&animation=twinkling&fontAlignY=70" />
